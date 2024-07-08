@@ -41,8 +41,7 @@ public class ProductScoringApplication implements CommandLineRunner {
         System.out.println("Average: " + average);
 
         for (Product product : filteredProducts) {
-            System.out.println(product.getName());
-            System.out.println(ruleEvaluator.calculateScore(product));
+            System.out.println("Product Name: " +product.getName() +"| Score: "+ruleEvaluator.calculateScore(product));            
         }
 
     }
