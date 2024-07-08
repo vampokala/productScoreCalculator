@@ -25,7 +25,8 @@ The product class containts the following properties
 - `memory`: Hardware Memory of the product
 - `brand`: The brand of the product.
 
-
+### Threshold
+As per the recommendations, the threshold has been set as 50
 
 To calculate the product score, follow these steps:
 
