@@ -1,0 +1,30 @@
+name,type,color,cost,weight,memory,screenSize,brand
+iPhone 11,Smartphone,Black,699,194,64,6.1,Apple
+iPhone 12 Pro Max,Smartphone,Gold,1099,228,256,6.7,Apple
+Galaxy S20 FE,Smartphone,Blue,699,190,128,6.5,Samsung
+Galaxy S21 Ultra,Smartphone,Silver,1199,228,512,6.8,Samsung
+iPhone 14 Pro Max,Smartphone,Space Gray,1299,238,512,6.9,Apple
+Galaxy S23,Smartphone,White,999,220,256,6.6,Samsung
+iPhone 15 Pro Max,Smartphone,Midnight Green,1399,240,512,7.0,Apple
+iPhone 11,Smartphone,Black,699,194,64,6.1,Apple
+iPhone 12 Pro Max,Smartphone,Gold,1099,228,256,6.7,Apple
+Galaxy S20 FE,Smartphone,Blue,699,190,128,6.5,Samsung
+Galaxy S21 Ultra,Smartphone,Silver,1199,228,512,6.8,Samsung
+iPhone 14 Pro Max,Smartphone,Space Gray,1299,238,512,6.9,Apple
+Galaxy S23,Smartphone,White,999,220,256,6.6,Samsung
+iPhone 15 Pro Max,Smartphone,Midnight Green,1399,240,512,7.0,Apple
+iPhone 13,Smartphone,Red,799,200,128,6.2,Apple
+Galaxy S22,Smartphone,Gray,899,210,256,6.4,Samsung
+iPhone SE (2021),Smartphone,White,499,148,64,4.7,Apple
+Galaxy Note 21,tablet,Black,1099,230,512,6.9,Samsung
+iPhone 14,Smartphone,Blue,999,220,256,6.5,Apple
+Galaxy Z Flip 3,Foldable,Purple,1299,183,256,6.7,Samsung
+iPhone 16 Pro,Smartphone,Silver,1399,240,512,7.1,Apple
+Galaxy A32,Smartphone,Green,349,185,128,6.4,Samsung
+iPhone 17,Smartphone,Gold,1499,250,512,7.2,Apple
+Galaxy S24,Smartphone,Pink,1099,215,256,6.6,Samsung
+iPhone 15 Pro Max,Smartphone,Space Gray,1599,260,1024,7.3,Apple
+Galaxy Fold 4,Foldable,Black,1799,280,512,7.5,Samsung
+iPhone 19,Smartphone,Midnight Green,1699,255,512,7.4,Apple
+Galaxy S25,Smartphone,Blue,1199,225,256,6.7,Samsung
+iPhone 15 Pro,Smartphone,Gold,1799,265,1024,7.5,Apple
